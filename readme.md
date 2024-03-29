@@ -6,3 +6,4 @@ Nessa repositório está o fruto dos meus estudo em rust, estudo esse seguindo [
 | --- | --- |
 |[hello_word](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html) | ✅ |
 |[guessing_game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) | ✅ |
+|[Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html) | ✅ |
